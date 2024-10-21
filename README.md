@@ -31,7 +31,7 @@ pip install -r requirements.txt
 Run the application:
 
 ```bash
-python stegno_app.py
+python STEGANOGRAPHY.py
 ```
 
 # 🧑‍💻 How to Use
